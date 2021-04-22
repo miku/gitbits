@@ -96,6 +96,8 @@ Here is a repo full of git scripts:
 
 ![](static/big-picture.png)
 
+### Adding a custom command
+
 You can add your own.
 
 ```shell
